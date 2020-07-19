@@ -10,7 +10,9 @@ body{
 	background-color: yellowgreen;
 	box-shadow: 0 0 30px  grey;
 	border-radius: 4px;
-	margin-left: 35em;
+	/* margin-left: 35em; */
+	margin: 0 auto;
+	margin-top: 100px;
 }
 
 .calculator__form {
